@@ -54,6 +54,8 @@ group :test do
   gem 'webdrivers'
   gem 'minitest'
   gem 'minitest-reporters'
+  gem 'guard', '2.16.2'
+  gem 'guard-minitest', '2.4.4'
 end
 
 group :production do
