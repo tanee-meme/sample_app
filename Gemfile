@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'uglifier',     '3.2.0'
 gem 'coffee-rails', '4.2.2'
 gem 'jquery-rails', '4.3.1'
+gem 'jquery-ui-rails'
 
 gem 'rails-controller-testing'
 # Reduces boot times through caching; required in config/boot.rb
